@@ -313,6 +313,7 @@ main {
   border: transparent;
   text-transform: capitalize;
   cursor: pointer;
+  margin-left: 0.75rem;
 }
 .info-btn {
   color: var(--primary-500);
